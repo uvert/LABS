@@ -1,0 +1,4 @@
+﻿  LabClass9.cpp
+C:\Users\Fox\source\repos\LABS\LabClass9\LabClass9\LabClass9.cpp(62,17): warning C4566: символ, представленный универсальным именем символа "\u2116", невозможно представить в текущей кодовой странице (1252)
+C:\Users\Fox\source\repos\LABS\LabClass9\LabClass9\LabClass9.cpp(78,17): warning C4566: символ, представленный универсальным именем символа "\u2116", невозможно представить в текущей кодовой странице (1252)
+  LabClass9.vcxproj -> C:\Users\Fox\source\repos\LABS\LabClass9\x64\Debug\LabClass9.exe
