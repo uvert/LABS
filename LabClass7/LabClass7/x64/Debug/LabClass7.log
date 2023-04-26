@@ -1,0 +1,4 @@
+﻿  LabClass7.cpp
+C:\Users\Fox\source\repos\LABS\LabClass7\LabClass7\LabClass7.cpp(73,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Fox\source\repos\LABS\LabClass7\LabClass7\LabClass7.cpp(81,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  LabClass7.vcxproj -> C:\Users\Fox\source\repos\LABS\LabClass7\x64\Debug\LabClass7.exe
