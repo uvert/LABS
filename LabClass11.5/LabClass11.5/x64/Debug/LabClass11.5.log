@@ -1,0 +1,6 @@
+﻿  LabClass11.5.cpp
+C:\Users\Fox\source\repos\LABS\LabClass11\LabClass11.5\LabClass11.5\LabClass11.5.cpp(23,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Fox\source\repos\LABS\LabClass11\LabClass11.5\LabClass11.5\LabClass11.5.cpp(22,1): message : во время компиляции функции-члена класс шаблон "int VectorAdapter<int>::size(void)"
+C:\Users\Fox\source\repos\LABS\LabClass11\LabClass11.5\LabClass11.5\LabClass11.5.cpp(87,5): message : выполняется компиляция ссылки на экземпляр шаблон функции "int VectorAdapter<int>::size(void)"
+C:\Users\Fox\source\repos\LABS\LabClass11\LabClass11.5\LabClass11.5\LabClass11.5.cpp(67,24): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "VectorAdapter<int>"
+  LabClass11.5.vcxproj -> C:\Users\Fox\source\repos\LABS\LabClass11\LabClass11.5\x64\Debug\LabClass11.5.exe
